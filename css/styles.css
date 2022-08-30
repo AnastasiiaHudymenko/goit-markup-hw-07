@@ -863,12 +863,12 @@ img {
   color: var(--white-color-text);
 }
 
-.wrapper-portfolio {
+.product-card__wrapper-content {
   padding: 20px 24px;
   border: 1px solid #eeeeee;
 }
 
-.portfolio-title {
+.product-card__title {
   margin-bottom: 4px;
 
   font-size: 18px;
@@ -876,7 +876,7 @@ img {
   letter-spacing: 0.06em;
 }
 
-.portfolio-text {
+.product-card__text {
   font-size: 16px;
   line-height: 1.88;
 
