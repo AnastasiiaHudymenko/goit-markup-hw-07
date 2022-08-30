@@ -17,7 +17,7 @@
   column-gap: 10px;
 }
 
-.social-list__link {
+.footer-social__link {
   @extend %link;
   @include center-flex;
   min-width: 44px;
