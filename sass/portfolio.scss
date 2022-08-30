@@ -1,0 +1,16 @@
+@import './utils/variables';
+@import './base/normalize';
+@import './base/reset';
+@import './base/body';
+@import './utils/vs-hidden';
+@import './utils/placeholder';
+@import './utils/mixin';
+@import './utils/components';
+@import './joint-components/header/header';
+@import './joint-components/header/menu-nav';
+@import './joint-components/header/contacts-list';
+@import './portfolio-components/filter-list';
+@import './portfolio-components/portfolio-list';
+@import './joint-components/footer/footer-address';
+@import './joint-components/footer/footer-social-list';
+@import './joint-components/footer/footer-form';

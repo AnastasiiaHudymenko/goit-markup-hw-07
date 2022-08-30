@@ -7,6 +7,7 @@
   --letter-spacing: 0.03em;
   --main-indent-padding: 94px;
   --main-font-size: 14px;
+  --main-font-family: 'Roboto', sans-serif;
 }
 
 *,
@@ -16,7 +17,7 @@
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: var(--main-font-family);
   font-size: var(--main-font-size);
   letter-spacing: var(--letter-spacing);
   color: var(--main-color);
